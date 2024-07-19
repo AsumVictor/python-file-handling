@@ -1,0 +1,1 @@
+x= '../../../csv_data/covid.csv'
